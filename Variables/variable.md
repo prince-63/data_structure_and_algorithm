@@ -1,4 +1,4 @@
-####**What is a variables?**
+#### **What is a variables?**
 A variable in computer programming is a symbolic name or identifier that is used to store and represent data in a program. Variables are a fundamental concept in programming because they allow you to manipulate and work with data, perform calculations, and store values for later use. Here are some key characteristics of variables:
 
 - **Name:** Variables have names that programmers choose to uniquely identify them within a program. Variable names typically follow certain rules, such as starting with a letter or underscore, and they are case-sensitive in many programming languages.

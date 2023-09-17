@@ -1,4 +1,4 @@
-####**what is a dataTypes?**
+#### **what is a dataTypes?**
 Data types in computer programming define the type of data that a variable can hold. They specify how the data is stored in memory and what operations can be performed on that data. Different programming languages support various data types, but there are some common categories of data types:
 
 - **`Integer (int):`** This data type represents whole numbers without any decimal points. Examples include -3, 0, 42.
